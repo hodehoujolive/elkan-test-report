@@ -11,7 +11,7 @@ Behat 3 extension for generating reports from your test results.
 
 ![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/2report.png)
 
-![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/3report.png)
+![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/3reports.png)
 
 ## It's easy!!
 
