@@ -8,7 +8,9 @@ Behat 3 extension for generating reports from your test results.
 ### Twig report
 
 ![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/1report.png)
+
 ![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/2report.png)
+
 ![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/3report.png)
 
 ## It's easy!!
