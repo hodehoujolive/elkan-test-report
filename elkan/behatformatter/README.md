@@ -1,12 +1,14 @@
+# Elkan-Formatter
+This project is a customisation of the Elkan formatter integrated as a package into a behat project to generate a report.
+
 ## BehatFormatter
 
 Behat 3 extension for generating reports from your test results.
 
-[![Latest Stable Version](https://poser.pugx.org/elkan/behatformatter/v/stable)](https://packagist.org/packages/elkan/behatformatter) [![Total Downloads](https://poser.pugx.org/elkan/behatformatter/downloads)](https://packagist.org/packages/elkan/behatformatter) [![Latest Unstable Version](https://poser.pugx.org/elkan/behatformatter/v/unstable)](https://packagist.org/packages/elkan/behatformatter) [![License](https://poser.pugx.org/elkan/behatformatter/license)](https://packagist.org/packages/elkan/behatformatter)
-
 ### Twig report
 
-![Twig Screenshot](http://i.imgur.com/SlJuhq3.png)
+![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/1report.png)
+![Twig Screenshot](https://github.com/hodehoujolive/Elkan-Formatter/blob/main/2report.png)
 
 ## It's easy!!
 
@@ -20,3 +22,4 @@ This extension requires:
 
 * PHP 5.3.x or higher
 * Behat 3.x or higher
+
